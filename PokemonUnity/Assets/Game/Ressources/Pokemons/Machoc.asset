@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Machoc
+  m_EditorClassIdentifier: 
+  name: Machoc
+  description: 
+  frontSprite: {fileID: -8868653072870737037, guid: a84ea9ec0d3353742becd11a0a27cd7a, type: 3}
+  backSprite: {fileID: -8868653072870737037, guid: 949e91655a1fb354bab7257c817ab2a6, type: 3}
+  type1: 7
+  type2: 0
+  maxHP: 70
+  attack: 80
+  defense: 50
+  spAttack: 35
+  spDefense: 35
+  speed: 35
+  learnableMoves: []

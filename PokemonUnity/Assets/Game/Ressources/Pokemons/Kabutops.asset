@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Kabutops
+  m_EditorClassIdentifier: 
+  name: Kabutops
+  description: 
+  frontSprite: {fileID: 1850122315572980378, guid: 33e6ec8203180e5479a8e875e44dae52, type: 3}
+  backSprite: {fileID: 1850122315572980378, guid: f152d7e0932cbef449ea32ecc18a3a4e, type: 3}
+  type1: 13
+  type2: 3
+  maxHP: 60
+  attack: 115
+  defense: 105
+  spAttack: 65
+  spDefense: 70
+  speed: 55
+  learnableMoves: []

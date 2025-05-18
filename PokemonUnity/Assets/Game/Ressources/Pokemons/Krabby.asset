@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Krabby
+  m_EditorClassIdentifier: 
+  name: Krabby
+  description: 
+  frontSprite: {fileID: 3973187760570444981, guid: 058967e2e40b08849bdb7dbeba1400d5, type: 3}
+  backSprite: {fileID: 3973187760570444981, guid: 7ac256bd18879d54b8d68f207c37ee52, type: 3}
+  type1: 3
+  type2: 0
+  maxHP: 30
+  attack: 105
+  defense: 90
+  spAttack: 25
+  spDefense: 25
+  speed: 50
+  learnableMoves: []

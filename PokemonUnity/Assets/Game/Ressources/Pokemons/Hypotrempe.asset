@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Hypotrempe
+  m_EditorClassIdentifier: 
+  name: Hypotrempe
+  description: 
+  frontSprite: {fileID: -627346825840282070, guid: eca35dc5b6ad7e44ebbf891534f24a0f, type: 3}
+  backSprite: {fileID: -627346825840282070, guid: 090f1beee74eb5742a8643b22e1aefe3, type: 3}
+  type1: 3
+  type2: 0
+  maxHP: 30
+  attack: 40
+  defense: 70
+  spAttack: 70
+  spDefense: 25
+  speed: 60
+  learnableMoves: []

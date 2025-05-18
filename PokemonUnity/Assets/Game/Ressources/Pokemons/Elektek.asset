@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Elektek
+  m_EditorClassIdentifier: 
+  name: Elektek
+  description: 
+  frontSprite: {fileID: 4815371488780361518, guid: e79a60e8c4c872747b1530be2809dcc5, type: 3}
+  backSprite: {fileID: 4815371488780361518, guid: 688c8b68e5d47c9499907f0717abd82f, type: 3}
+  type1: 4
+  type2: 0
+  maxHP: 65
+  attack: 83
+  defense: 57
+  spAttack: 95
+  spDefense: 85
+  speed: 105
+  learnableMoves: []

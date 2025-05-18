@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Rafflesia
+  m_EditorClassIdentifier: 
+  name: Rafflesia
+  description: 
+  frontSprite: {fileID: -6946007662723423348, guid: d467ada249e3f594991e3af90671d250, type: 3}
+  backSprite: {fileID: -6946007662723423348, guid: 50638f1d67f90c04f8d88d69a6e9c5f5, type: 3}
+  type1: 5
+  type2: 8
+  maxHP: 75
+  attack: 80
+  defense: 85
+  spAttack: 110
+  spDefense: 90
+  speed: 50
+  learnableMoves: []

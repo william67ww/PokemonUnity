@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Excelangue
+  m_EditorClassIdentifier: 
+  name: Excelangue
+  description: 
+  frontSprite: {fileID: -4111228882293134515, guid: 194444042b965204797825abaf9a0ef7, type: 3}
+  backSprite: {fileID: -4111228882293134515, guid: b807ea470694a0744b95b2983d777942, type: 3}
+  type1: 1
+  type2: 0
+  maxHP: 90
+  attack: 55
+  defense: 75
+  spAttack: 60
+  spDefense: 75
+  speed: 30
+  learnableMoves: []

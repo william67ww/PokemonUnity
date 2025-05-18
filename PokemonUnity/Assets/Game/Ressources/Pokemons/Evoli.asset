@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Evoli
+  m_EditorClassIdentifier: 
+  name: Evoli
+  description: 
+  frontSprite: {fileID: -1669221820070231874, guid: bf1ae63fcb761944885da01fc0aa640d, type: 3}
+  backSprite: {fileID: -1669221820070231874, guid: d82e27fde8df42e4faa70558e1e370a5, type: 3}
+  type1: 1
+  type2: 0
+  maxHP: 55
+  attack: 55
+  defense: 50
+  spAttack: 45
+  spDefense: 65
+  speed: 55
+  learnableMoves: []

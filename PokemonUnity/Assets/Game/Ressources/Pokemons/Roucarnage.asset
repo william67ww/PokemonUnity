@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Roucarnage
+  m_EditorClassIdentifier: 
+  name: Roucarnage
+  description: 
+  frontSprite: {fileID: 2960402581040015946, guid: 839c19d2a1d02f54aa042751ea8dccf7, type: 3}
+  backSprite: {fileID: 2960402581040015946, guid: 97b7642d8b2fe7c44b093c6536495df7, type: 3}
+  type1: 1
+  type2: 10
+  maxHP: 83
+  attack: 80
+  defense: 75
+  spAttack: 70
+  spDefense: 70
+  speed: 101
+  learnableMoves: []

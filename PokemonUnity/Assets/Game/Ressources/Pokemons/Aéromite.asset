@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: "A\xE9romite"
+  m_EditorClassIdentifier: 
+  name: "A\xE9romite"
+  description: 
+  frontSprite: {fileID: -8586417740124189794, guid: 3fa32f1151131fa479c204cddf15a9ab, type: 3}
+  backSprite: {fileID: -8586417740124189794, guid: 33f25e7feb1399740a9507f54e57bbdd, type: 3}
+  type1: 12
+  type2: 8
+  maxHP: 70
+  attack: 65
+  defense: 60
+  spAttack: 90
+  spDefense: 75
+  speed: 90
+  learnableMoves: []

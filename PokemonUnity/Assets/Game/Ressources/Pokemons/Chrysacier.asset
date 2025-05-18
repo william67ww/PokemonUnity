@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Chrysacier
+  m_EditorClassIdentifier: 
+  name: Chrysacier
+  description: 
+  frontSprite: {fileID: -2966200626249415253, guid: 27d715cb92de6824c95d779643d9ac8d, type: 3}
+  backSprite: {fileID: -2966200626249415253, guid: 8e939886f1363314f96378592ba412ad, type: 3}
+  type1: 12
+  type2: 0
+  maxHP: 50
+  attack: 20
+  defense: 55
+  spAttack: 25
+  spDefense: 25
+  speed: 30
+  learnableMoves: []

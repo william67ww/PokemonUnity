@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Piafabec
+  m_EditorClassIdentifier: 
+  name: Piafabec
+  description: 
+  frontSprite: {fileID: -5750353039905602045, guid: 6c10af776e019ea4ea3bf423d7af783b, type: 3}
+  backSprite: {fileID: -5750353039905602045, guid: 762db63f8d96acb439e2dc2ad559b9be, type: 3}
+  type1: 1
+  type2: 10
+  maxHP: 40
+  attack: 60
+  defense: 30
+  spAttack: 31
+  spDefense: 31
+  speed: 70
+  learnableMoves: []

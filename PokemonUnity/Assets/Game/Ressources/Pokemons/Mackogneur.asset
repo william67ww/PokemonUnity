@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Mackogneur
+  m_EditorClassIdentifier: 
+  name: Mackogneur
+  description: 
+  frontSprite: {fileID: 9125048449310441231, guid: 1a802feb319e66c4eafb2ba484cd77d6, type: 3}
+  backSprite: {fileID: 9125048449310441231, guid: 361e65cb6cb602344ba32bba70a3dccb, type: 3}
+  type1: 7
+  type2: 0
+  maxHP: 90
+  attack: 130
+  defense: 80
+  spAttack: 65
+  spDefense: 85
+  speed: 55
+  learnableMoves: []

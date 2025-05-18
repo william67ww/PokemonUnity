@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Magicarpe
+  m_EditorClassIdentifier: 
+  name: Magicarpe
+  description: 
+  frontSprite: {fileID: 3283437849015589349, guid: 77040f8e294e0154bbf06d9a374ddc40, type: 3}
+  backSprite: {fileID: 3283437849015589349, guid: 842c8345257811443ad216f1a6791c3e, type: 3}
+  type1: 3
+  type2: 0
+  maxHP: 20
+  attack: 10
+  defense: 55
+  spAttack: 15
+  spDefense: 20
+  speed: 80
+  learnableMoves: []

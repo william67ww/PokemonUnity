@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Flagadoss
+  m_EditorClassIdentifier: 
+  name: Flagadoss
+  description: 
+  frontSprite: {fileID: -2664783550769548753, guid: 98f6d515c26601d4382ae3b4bbacbdcc, type: 3}
+  backSprite: {fileID: -2664783550769548753, guid: c8f15740460f7b84e9a82c75824fb6ef, type: 3}
+  type1: 3
+  type2: 11
+  maxHP: 95
+  attack: 75
+  defense: 110
+  spAttack: 100
+  spDefense: 80
+  speed: 30
+  learnableMoves: []

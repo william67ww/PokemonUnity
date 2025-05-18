@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Kabuto
+  m_EditorClassIdentifier: 
+  name: Kabuto
+  description: 
+  frontSprite: {fileID: 8066946747507999253, guid: fef441aa5fbe48a4087b414448a53e45, type: 3}
+  backSprite: {fileID: 8066946747507999253, guid: 1bdfe0b96aa1178499d2a5a13425e1d4, type: 3}
+  type1: 13
+  type2: 3
+  maxHP: 30
+  attack: 80
+  defense: 90
+  spAttack: 55
+  spDefense: 45
+  speed: 55
+  learnableMoves: []

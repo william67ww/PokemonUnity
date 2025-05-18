@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Tartare
+  m_EditorClassIdentifier: 
+  name: Tartare
+  description: 
+  frontSprite: {fileID: 8487931408410037748, guid: 3dbdffa1db105494d9d0c51d3ef99ea4, type: 3}
+  backSprite: {fileID: 8487931408410037748, guid: 36f5be33a4952cd45a46cd31cdf86cc7, type: 3}
+  type1: 3
+  type2: 7
+  maxHP: 90
+  attack: 95
+  defense: 95
+  spAttack: 70
+  spDefense: 90
+  speed: 70
+  learnableMoves: []

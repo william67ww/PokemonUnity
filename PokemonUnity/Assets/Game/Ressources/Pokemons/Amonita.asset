@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Amonita
+  m_EditorClassIdentifier: 
+  name: Amonita
+  description: 
+  frontSprite: {fileID: -6515318933371099371, guid: c586a167387f7dc45b34d77bd0350434, type: 3}
+  backSprite: {fileID: -6515318933371099371, guid: 2617063091f203d47ba84928a519fae1, type: 3}
+  type1: 13
+  type2: 3
+  maxHP: 35
+  attack: 40
+  defense: 100
+  spAttack: 90
+  spDefense: 55
+  speed: 35
+  learnableMoves: []

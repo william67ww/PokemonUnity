@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Lippoutou
+  m_EditorClassIdentifier: 
+  name: Lipoutou
+  description: 
+  frontSprite: {fileID: -3264369169389008339, guid: 5c104e1c7afa7784b86539839db402a5, type: 3}
+  backSprite: {fileID: -3264369169389008339, guid: 96694a63c466db141bf6df3ed1ec75d8, type: 3}
+  type1: 6
+  type2: 11
+  maxHP: 65
+  attack: 50
+  defense: 35
+  spAttack: 115
+  spDefense: 95
+  speed: 95
+  learnableMoves: []

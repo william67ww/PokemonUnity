@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: "Rhinof\xE9ros"
+  m_EditorClassIdentifier: 
+  name: "Rhinof\xE9ros"
+  description: 
+  frontSprite: {fileID: 8950671513123133910, guid: 6fbcb873a3f907c428b6e62164e79e9d, type: 3}
+  backSprite: {fileID: 8950671513123133910, guid: 388e6672ae777504ea6fa229e9c3eb39, type: 3}
+  type1: 13
+  type2: 9
+  maxHP: 105
+  attack: 130
+  defense: 120
+  spAttack: 45
+  spDefense: 45
+  speed: 40
+  learnableMoves: []

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Mystherbe
+  m_EditorClassIdentifier: 
+  name: Mystherbe
+  description: 
+  frontSprite: {fileID: -4004772778501413904, guid: 3fe7a313107c23f4ab6bdc42a4f7003a, type: 3}
+  backSprite: {fileID: -4004772778501413904, guid: cab55c6b030360a41adbc9cc7c9f2252, type: 3}
+  type1: 5
+  type2: 8
+  maxHP: 45
+  attack: 50
+  defense: 55
+  spAttack: 75
+  spDefense: 65
+  speed: 30
+  learnableMoves: []

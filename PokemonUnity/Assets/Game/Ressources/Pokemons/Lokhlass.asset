@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Lokhlass
+  m_EditorClassIdentifier: 
+  name: Lokhlass
+  description: 
+  frontSprite: {fileID: -6919194877884806517, guid: bb856dda3baf39a4abf1077290161ce8, type: 3}
+  backSprite: {fileID: -6919194877884806517, guid: 6b57863e6b3d2f44e956dda8bf5fa1a0, type: 3}
+  type1: 3
+  type2: 6
+  maxHP: 130
+  attack: 85
+  defense: 80
+  spAttack: 85
+  spDefense: 95
+  speed: 60
+  learnableMoves: []

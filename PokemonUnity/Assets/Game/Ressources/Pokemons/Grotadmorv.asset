@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Grotadmorv
+  m_EditorClassIdentifier: 
+  name: Grotadmorv
+  description: 
+  frontSprite: {fileID: -9077199038371864319, guid: c0160ea3c62736e4abe8b466432b60e4, type: 3}
+  backSprite: {fileID: -9077199038371864319, guid: 0052860135d639546a9c8d55a6a3cf0f, type: 3}
+  type1: 8
+  type2: 0
+  maxHP: 105
+  attack: 105
+  defense: 75
+  spAttack: 65
+  spDefense: 100
+  speed: 50
+  learnableMoves: []

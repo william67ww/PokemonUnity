@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Ramoloss
+  m_EditorClassIdentifier: 
+  name: Ramoloss
+  description: 
+  frontSprite: {fileID: 5223280560187763028, guid: 1c0fce8e89af4614db026e1b6bdcbdde, type: 3}
+  backSprite: {fileID: 5223280560187763028, guid: a907e779a76e6a14a8c9445247482973, type: 3}
+  type1: 3
+  type2: 11
+  maxHP: 90
+  attack: 65
+  defense: 65
+  spAttack: 40
+  spDefense: 40
+  speed: 15
+  learnableMoves: []

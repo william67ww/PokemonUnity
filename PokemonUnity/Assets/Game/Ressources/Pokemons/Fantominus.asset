@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Fantominus
+  m_EditorClassIdentifier: 
+  name: Fantominus
+  description: 
+  frontSprite: {fileID: 158777831206505336, guid: 1707f3c472a621149b49b9dccf75535b, type: 3}
+  backSprite: {fileID: 158777831206505336, guid: 8cdffb770224e1b4b8fa5b9609baafc8, type: 3}
+  type1: 14
+  type2: 8
+  maxHP: 30
+  attack: 35
+  defense: 30
+  spAttack: 100
+  spDefense: 35
+  speed: 80
+  learnableMoves: []

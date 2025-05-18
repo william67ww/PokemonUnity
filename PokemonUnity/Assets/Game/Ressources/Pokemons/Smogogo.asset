@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Smogogo
+  m_EditorClassIdentifier: 
+  name: Smogogo
+  description: 
+  frontSprite: {fileID: 6497990605793951882, guid: 580f288f9b4e25545b2e6b7df905a90b, type: 3}
+  backSprite: {fileID: 6497990605793951882, guid: 8804a2fe16c12b04db0437871013e404, type: 3}
+  type1: 8
+  type2: 0
+  maxHP: 65
+  attack: 90
+  defense: 120
+  spAttack: 85
+  spDefense: 70
+  speed: 60
+  learnableMoves: []

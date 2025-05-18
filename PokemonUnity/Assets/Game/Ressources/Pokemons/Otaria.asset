@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Otaria
+  m_EditorClassIdentifier: 
+  name: Otaria
+  description: 
+  frontSprite: {fileID: 3800202167116691454, guid: 04ff71604a6dbc74cb2991ab2231e098, type: 3}
+  backSprite: {fileID: 3800202167116691454, guid: 7722ad58f345fc04ea1b951d505ef147, type: 3}
+  type1: 3
+  type2: 0
+  maxHP: 65
+  attack: 45
+  defense: 55
+  spAttack: 45
+  spDefense: 70
+  speed: 45
+  learnableMoves: []

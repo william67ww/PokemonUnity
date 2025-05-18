@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Ptitard
+  m_EditorClassIdentifier: 
+  name: Ptitard
+  description: 
+  frontSprite: {fileID: 6810289884213664739, guid: 7f9b6d626c2a18547aa31824e1559930, type: 3}
+  backSprite: {fileID: 6810289884213664739, guid: 6e1d36d06f485f94b8690d46952129a7, type: 3}
+  type1: 3
+  type2: 0
+  maxHP: 40
+  attack: 50
+  defense: 40
+  spAttack: 40
+  spDefense: 40
+  speed: 90
+  learnableMoves: []

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Rondoudou
+  m_EditorClassIdentifier: 
+  name: Rondoudou
+  description: 
+  frontSprite: {fileID: -3180619178420385107, guid: e808baf1edb392d49af47d7d7d670646, type: 3}
+  backSprite: {fileID: -3180619178420385107, guid: 9e30a725e1da0bf41b7b17992dc86ac4, type: 3}
+  type1: 1
+  type2: 18
+  maxHP: 115
+  attack: 45
+  defense: 20
+  spAttack: 45
+  spDefense: 25
+  speed: 20
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 0c5c53a00193070449d7aefa6178c8c8, type: 2}
+    level: 3

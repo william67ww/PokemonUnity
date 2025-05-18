@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Nidoran Male
+  m_EditorClassIdentifier: 
+  name: 'Nidoran '
+  description: 
+  frontSprite: {fileID: 5272401415994956661, guid: dd0bcebbef35cf046886a4bdeee6e5b9, type: 3}
+  backSprite: {fileID: 5272401415994956661, guid: d2da19ce712d22944bb79202c8a3eade, type: 3}
+  type1: 8
+  type2: 0
+  maxHP: 46
+  attack: 57
+  defense: 40
+  spAttack: 40
+  spDefense: 40
+  speed: 50
+  learnableMoves: []

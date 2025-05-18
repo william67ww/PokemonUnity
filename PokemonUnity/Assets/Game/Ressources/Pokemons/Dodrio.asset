@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Dodrio
+  m_EditorClassIdentifier: 
+  name: Dodrio
+  description: 
+  frontSprite: {fileID: -6910697209631215935, guid: 9e2f7f99c698d5c4e823ecd174371a04, type: 3}
+  backSprite: {fileID: -6910697209631215935, guid: a06b5b4d3d8dc7c40bea74a04b709228, type: 3}
+  type1: 1
+  type2: 10
+  maxHP: 60
+  attack: 110
+  defense: 70
+  spAttack: 60
+  spDefense: 60
+  speed: 110
+  learnableMoves: []

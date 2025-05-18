@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Spectrum
+  m_EditorClassIdentifier: 
+  name: Spectrum
+  description: 
+  frontSprite: {fileID: -3339920041963615713, guid: b35218355cc76254c9e641bc7a9b775a, type: 3}
+  backSprite: {fileID: -3339920041963615713, guid: 7d98b221ef850e640975516d1a3791d2, type: 3}
+  type1: 14
+  type2: 8
+  maxHP: 45
+  attack: 50
+  defense: 45
+  spAttack: 115
+  spDefense: 55
+  speed: 95
+  learnableMoves: []

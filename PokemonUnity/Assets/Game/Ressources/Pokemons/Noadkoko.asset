@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Noadkoko
+  m_EditorClassIdentifier: 
+  name: Noadkoko
+  description: 
+  frontSprite: {fileID: -6814081207438931458, guid: a47940cf300ef5d4faa7dbf646666662, type: 3}
+  backSprite: {fileID: -6814081207438931458, guid: 1ba4a7e0e9db655468c7219950bc51b9, type: 3}
+  type1: 5
+  type2: 11
+  maxHP: 95
+  attack: 95
+  defense: 85
+  spAttack: 125
+  spDefense: 75
+  speed: 55
+  learnableMoves: []

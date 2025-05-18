@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Nosferalto
+  m_EditorClassIdentifier: 
+  name: Nosferalto
+  description: 
+  frontSprite: {fileID: 7059393366267629080, guid: fb0cdcd77c6fce342b5b290186274d40, type: 3}
+  backSprite: {fileID: 7059393366267629080, guid: f77defa46ffc62f4c9c43259ae3ff30b, type: 3}
+  type1: 8
+  type2: 10
+  maxHP: 75
+  attack: 80
+  defense: 70
+  spAttack: 65
+  spDefense: 75
+  speed: 90
+  learnableMoves: []

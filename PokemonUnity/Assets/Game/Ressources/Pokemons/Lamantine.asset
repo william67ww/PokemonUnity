@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Lamantine
+  m_EditorClassIdentifier: 
+  name: Lamantine
+  description: 
+  frontSprite: {fileID: -470884732477857976, guid: fab923b97df42b54b99f00a4f3ab6cfd, type: 3}
+  backSprite: {fileID: -470884732477857976, guid: a71ce6309ee60a94bab15a47a7adc368, type: 3}
+  type1: 3
+  type2: 6
+  maxHP: 90
+  attack: 70
+  defense: 80
+  spAttack: 70
+  spDefense: 95
+  speed: 70
+  learnableMoves: []

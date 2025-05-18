@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Taupiqueur
+  m_EditorClassIdentifier: 
+  name: Taupiqueur
+  description: 
+  frontSprite: {fileID: -1783808350427418317, guid: 7150417e17e3eea498fd43441ec9beac, type: 3}
+  backSprite: {fileID: -1783808350427418317, guid: 37f02b409af70084dbae9d5576a70922, type: 3}
+  type1: 9
+  type2: 0
+  maxHP: 10
+  attack: 55
+  defense: 25
+  spAttack: 35
+  spDefense: 45
+  speed: 95
+  learnableMoves: []

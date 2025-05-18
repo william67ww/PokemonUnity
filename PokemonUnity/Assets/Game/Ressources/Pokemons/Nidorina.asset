@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Nidorina
+  m_EditorClassIdentifier: 
+  name: Nidorina
+  description: 
+  frontSprite: {fileID: -8038976213705442086, guid: 70e56a81d018cbe41adb3f2d1db2af02, type: 3}
+  backSprite: {fileID: -8038976213705442086, guid: 0d552e524d9336941b214798c30aeed4, type: 3}
+  type1: 8
+  type2: 0
+  maxHP: 70
+  attack: 62
+  defense: 67
+  spAttack: 55
+  spDefense: 55
+  speed: 56
+  learnableMoves: []

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Ossatueur
+  m_EditorClassIdentifier: 
+  name: Ossatueur
+  description: 
+  frontSprite: {fileID: 6460090415961922604, guid: 9b5bf94033240d742a25a7aea56d05f6, type: 3}
+  backSprite: {fileID: 6460090415961922604, guid: c6b182e2cc64dbf4da374dbaffebba5c, type: 3}
+  type1: 9
+  type2: 0
+  maxHP: 60
+  attack: 80
+  defense: 110
+  spAttack: 50
+  spDefense: 80
+  speed: 45
+  learnableMoves: []

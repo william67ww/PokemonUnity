@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Dracolosse
+  m_EditorClassIdentifier: 
+  name: Dracolosse
+  description: 
+  frontSprite: {fileID: -6571389229679643093, guid: c436c48ea88732f4eb997f61f6179bcc, type: 3}
+  backSprite: {fileID: -6571389229679643093, guid: b50ad199e34b7ea45b7ff4e90644e60c, type: 3}
+  type1: 15
+  type2: 10
+  maxHP: 91
+  attack: 134
+  defense: 95
+  spAttack: 100
+  spDefense: 100
+  speed: 80
+  learnableMoves: []

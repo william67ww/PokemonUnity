@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Ortide
+  m_EditorClassIdentifier: 
+  name: Ortide
+  description: 
+  frontSprite: {fileID: -2947526863502713391, guid: 34067e43484f6fd49af92af886c0468e, type: 3}
+  backSprite: {fileID: -2947526863502713391, guid: d8bd96692695f4d4284d8f6dd13921db, type: 3}
+  type1: 5
+  type2: 8
+  maxHP: 60
+  attack: 65
+  defense: 70
+  spAttack: 85
+  spDefense: 75
+  speed: 40
+  learnableMoves: []

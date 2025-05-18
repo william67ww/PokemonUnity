@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Ronflex
+  m_EditorClassIdentifier: 
+  name: Ronflex
+  description: 
+  frontSprite: {fileID: 4388773979155026838, guid: c11122ac99ce8fa43b55dbf1a9c8d299, type: 3}
+  backSprite: {fileID: 4388773979155026838, guid: 4ee01f3065339ee43a1c138e218a0a28, type: 3}
+  type1: 1
+  type2: 0
+  maxHP: 160
+  attack: 110
+  defense: 65
+  spAttack: 65
+  spDefense: 110
+  speed: 30
+  learnableMoves: []

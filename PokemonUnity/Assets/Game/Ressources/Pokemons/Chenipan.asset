@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Chenipan
+  m_EditorClassIdentifier: 
+  name: Chenipan
+  description: 
+  frontSprite: {fileID: -5099292496197868168, guid: 0080ecd5a1732d44c8e36cfc6598b6ee, type: 3}
+  backSprite: {fileID: -5099292496197868168, guid: 7998f0641e5c4a5438b85ae7a4038fd9, type: 3}
+  type1: 12
+  type2: 0
+  maxHP: 45
+  attack: 30
+  defense: 35
+  spAttack: 20
+  spDefense: 20
+  speed: 45
+  learnableMoves: []

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Feunard
+  m_EditorClassIdentifier: 
+  name: Feunard
+  description: 
+  frontSprite: {fileID: -2014771838305702419, guid: cb45b6015e7f4684b9f5cc072d681111, type: 3}
+  backSprite: {fileID: -2014771838305702419, guid: 5a7bb0eff5f2eeb4d8226c200eb43709, type: 3}
+  type1: 2
+  type2: 0
+  maxHP: 73
+  attack: 76
+  defense: 75
+  spAttack: 81
+  spDefense: 100
+  speed: 100
+  learnableMoves: []

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: "M\xE9tamorph"
+  m_EditorClassIdentifier: 
+  name: "M\xE9tamorph"
+  description: 
+  frontSprite: {fileID: 7236970418971138015, guid: 82fd1eab763b4a646bb72d948b09d8a0, type: 3}
+  backSprite: {fileID: 7236970418971138015, guid: e99f9629c93a02d42a9544ef53dfa95a, type: 3}
+  type1: 1
+  type2: 0
+  maxHP: 48
+  attack: 48
+  defense: 48
+  spAttack: 48
+  spDefense: 48
+  speed: 48
+  learnableMoves: []

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Coconfort
+  m_EditorClassIdentifier: 
+  name: Coconfort
+  description: 
+  frontSprite: {fileID: -6270953770400647376, guid: 7eab6d68b20b43745adc7b6be518be59, type: 3}
+  backSprite: {fileID: -6270953770400647376, guid: d82b26bcdb18ec244b0743d4d5700b15, type: 3}
+  type1: 12
+  type2: 8
+  maxHP: 45
+  attack: 25
+  defense: 50
+  spAttack: 25
+  spDefense: 25
+  speed: 35
+  learnableMoves: []

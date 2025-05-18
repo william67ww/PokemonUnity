@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Electrode
+  m_EditorClassIdentifier: 
+  name: Electrode
+  description: 
+  frontSprite: {fileID: 2674749960476766153, guid: eace01652d37efa46a9e10eb0470c4db, type: 3}
+  backSprite: {fileID: 2674749960476766153, guid: aa2169ca80b548645bf11d47fafa5a07, type: 3}
+  type1: 4
+  type2: 0
+  maxHP: 60
+  attack: 50
+  defense: 70
+  spAttack: 80
+  spDefense: 80
+  speed: 150
+  learnableMoves: []

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Akwakwak
+  m_EditorClassIdentifier: 
+  name: Akwakwak
+  description: 
+  frontSprite: {fileID: -41970534257140035, guid: 7dc3b6207733cbb4ba85aacdea115d10, type: 3}
+  backSprite: {fileID: -41970534257140035, guid: 6a8b5a6e7a4e7ef45a8804c0c3ee0660, type: 3}
+  type1: 3
+  type2: 0
+  maxHP: 80
+  attack: 82
+  defense: 78
+  spAttack: 95
+  spDefense: 80
+  speed: 85
+  learnableMoves: []

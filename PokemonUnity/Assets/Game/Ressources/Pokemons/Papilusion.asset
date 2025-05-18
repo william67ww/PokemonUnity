@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Papilusion
+  m_EditorClassIdentifier: 
+  pokemonName: Papilusion
+  description: 
+  frontSprite: {fileID: -1540426309290004842, guid: 7f5af366698680b47bd767ad19261087, type: 3}
+  backSprite: {fileID: -1540426309290004842, guid: d9cd1cd65d3d1bf478dc197b3c2a29cf, type: 3}
+  type1: 12
+  type2: 10
+  maxHP: 60
+  attack: 45
+  defense: 50
+  spAttack: 90
+  spDefense: 80
+  speed: 70
+  expYield: 60
+  growthRate: 0
+  catchRate: 255
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 0f1908d3e9efdc5499db2f3d8016c814, type: 2}
+    level: 3

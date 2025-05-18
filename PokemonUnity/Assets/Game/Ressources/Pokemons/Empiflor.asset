@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Empiflor
+  m_EditorClassIdentifier: 
+  name: Empiflor
+  description: 
+  frontSprite: {fileID: 916090261725292327, guid: 9f183133e28a43a4e86f549d4c3bdef8, type: 3}
+  backSprite: {fileID: 916090261725292327, guid: dd2bce70235db0f48bc31c8a8b3d0e3c, type: 3}
+  type1: 5
+  type2: 8
+  maxHP: 80
+  attack: 105
+  defense: 65
+  spAttack: 100
+  spDefense: 70
+  speed: 70
+  learnableMoves: []

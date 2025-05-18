@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Canarticho
+  m_EditorClassIdentifier: 
+  name: Canarticho
+  description: 
+  frontSprite: {fileID: 2034566960907004412, guid: 67dff1a833a610242b48ff98ee262a56, type: 3}
+  backSprite: {fileID: 2034566960907004412, guid: c01e166d44a3cfb40a21f6319f717302, type: 3}
+  type1: 1
+  type2: 10
+  maxHP: 52
+  attack: 90
+  defense: 55
+  spAttack: 58
+  spDefense: 62
+  speed: 60
+  learnableMoves: []

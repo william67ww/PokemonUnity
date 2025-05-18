@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Galopa
+  m_EditorClassIdentifier: 
+  name: Galopa
+  description: 
+  frontSprite: {fileID: -3106506509227680175, guid: 53b54d970e3b74345a6e144e1406505c, type: 3}
+  backSprite: {fileID: -3106506509227680175, guid: 5188532166e23fa4f872e70eda7dada4, type: 3}
+  type1: 2
+  type2: 0
+  maxHP: 65
+  attack: 100
+  defense: 70
+  spAttack: 80
+  spDefense: 80
+  speed: 105
+  learnableMoves: []

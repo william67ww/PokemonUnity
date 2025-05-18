@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Electhor
+  m_EditorClassIdentifier: 
+  name: Electhor
+  description: 
+  frontSprite: {fileID: 1257400235282056063, guid: b5b92e9d0bd525343a5e25ab03a3eb92, type: 3}
+  backSprite: {fileID: 1257400235282056063, guid: ca31140979a17e04390878d5c8b09fc7, type: 3}
+  type1: 4
+  type2: 10
+  maxHP: 90
+  attack: 90
+  defense: 85
+  spAttack: 125
+  spDefense: 90
+  speed: 100
+  learnableMoves: []

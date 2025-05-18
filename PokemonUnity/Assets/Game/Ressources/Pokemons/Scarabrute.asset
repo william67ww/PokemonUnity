@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6917ca9cfa451140809a907181ddbfe, type: 3}
+  m_Name: Scarabrute
+  m_EditorClassIdentifier: 
+  name: Scarabrute
+  description: 
+  frontSprite: {fileID: 8807150855795847855, guid: 5918139d2999faa448c6428fd075bfaa, type: 3}
+  backSprite: {fileID: 8807150855795847855, guid: 6c87f54a32c0e9148b7bea2c2d3b9b1d, type: 3}
+  type1: 12
+  type2: 0
+  maxHP: 65
+  attack: 125
+  defense: 100
+  spAttack: 55
+  spDefense: 70
+  speed: 85
+  learnableMoves: []
